@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Can</h1>
 <h3 align="center">Senior student and aspiring web developer, passionate about web technologies and software development.</h3>
 
-- 🔭 I’m currently working on [a React & Tailwind proejct](https://github.com/ceksioglu/canx)
+- 🔭 I’m currently working on [Java - Car Rental Backend](https://github.com/ceksioglu/car_rental)
 
 - 🌱 I’m currently learning **Laravel, Java & Spring Boot**
 
