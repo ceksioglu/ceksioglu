@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/can-ek%c5%9fio%c4%9flu-a599a1260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/can-ek%c5%9fio%c4%9flu-a599a1260" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/can-eksioglu9094" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/can-eksioglu9094" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23155544" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23155544" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ceksioglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ceksioglu" height="30" width="40" /></a>
 </p>
