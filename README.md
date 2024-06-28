@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Can</h1>
 <h3 align="center">Aspiring web developer, passionate about web technologies and software development.</h3>
-<h3 align="center">Currently a software engineering intern at TÜBİTAK BİLGEM.</h3>
+<h3 align="left">Currently a software engineering intern at TÜBİTAK BİLGEM.</h3>
 
 - 🔭 I’m currently working on [Java - Car Rental Backend](https://github.com/ceksioglu/car_rental)
 
