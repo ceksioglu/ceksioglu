@@ -1,4 +1,4 @@
-<h1 align="center">Hey! 👋, I'm Can</h1>
+<h1 align="center">Hey! 👋 I'm Can</h1>
 <h3 align="left">Aspiring web developer, passionate about web technologies and software development.</h3>
 <h3 align="left">Currently a software engineering intern at TÜBİTAK BİLGEM.</h3>
 
