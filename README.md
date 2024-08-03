@@ -2,7 +2,7 @@
 <h3 align="left">Aspiring web developer, passionate about web technologies and software development.</h3>
 <h3 align="left">Currently a software engineering intern at TÜBİTAK.</h3>
 
-- 🔭 I’m currently working on [Java - Car Rental Backend](https://github.com/ceksioglu/car_rental)
+- 🔭 I’m currently working on [E-Commerce Microservice Design Project](https://github.com/ceksioglu/microsvc-design)
 
 - 🌱 I’m currently learning **Laravel, Java & Spring Boot**
 
