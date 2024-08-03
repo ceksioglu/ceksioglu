@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [E-Commerce Microservice Design Project](https://github.com/ceksioglu/microsvc-design)
 
-- 🌱 I’m currently learning **Laravel, Java & Spring Boot**
+- 🌱 I’m currently learning **ASP.NET & Spring Framework**
 
 - 📫 How to reach me **ceksioglu@hotmail.com**
 
